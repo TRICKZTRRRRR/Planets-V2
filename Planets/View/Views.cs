@@ -69,7 +69,7 @@ namespace Planets.View
         public void RemovePlanets()
         {
             Console.Clear();
-            Console.WriteLine("You removed all the planets");
+            Console.WriteLine("All the planets are removed!");
         }
         #endregion
 
